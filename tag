@@ -1,4 +1,3 @@
-
 Tag	Description
 <!--...-->	Defines a comment
 <!DOCTYPE> 	Defines the document type
