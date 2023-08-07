@@ -130,3 +130,4 @@ Defines teletype text
 <var>	Defines a variable
 <video>	Defines embedded video content
 <wbr>	Defines a possible line-break
+HTML-5  
