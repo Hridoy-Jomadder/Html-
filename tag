@@ -129,6 +129,7 @@ Defines teletype text
 <ul>	Defines an unordered list
 <var>	Defines a variable
 <video>	Defines embedded video content
+<video controls> The controls attribute is a boolean attribute. When present, it specifies that video controls should be displayed.
 <wbr>	Defines a possible line-break
 
 HTML-5  
