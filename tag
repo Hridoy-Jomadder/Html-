@@ -128,7 +128,7 @@ Defines teletype text
 <u>	Defines some text that is unarticulated and styled differently from normal text
 <ul>	Defines an unordered list
 <var>	Defines a variable
-<audio>
+<audio> The <audio> tag is used to embed sound content in a document, such as music or other audio streams.
 <video>	Defines embedded video content
 <video controls> The controls attribute is a boolean attribute. When present, it specifies that video controls should be displayed.
 <wbr>	Defines a possible line-break
