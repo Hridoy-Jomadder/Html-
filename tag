@@ -135,5 +135,3 @@ Defines teletype text
 
 HTML-5  
 https://www.w3schools.com/html/
-
-
