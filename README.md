@@ -5,7 +5,6 @@ With HTML you can create your own Website.
 
 HTML is easy to learn - You will enjoy it!
 
-Html 1-5 All Tag
 
 What is HTML?
 HTML stands for Hyper Text Markup Language
@@ -24,3 +23,6 @@ The <title> element specifies a title for the HTML page (which is shown in the b
 The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 The <h1> element defines a large heading
 The <p> element defines a paragraph
+
+
+Html 1-5 All Tag
